@@ -1,3 +1,5 @@
+# Exercício Python 3: Crie um programa que leia dois números e mostre a soma entre eles.
+
 num1 = input('Digite um numero :')
 num2 = input('Digite outro numero :')
 num1 = int(num1)

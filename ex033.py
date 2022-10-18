@@ -1,3 +1,5 @@
+# Exercício Python 33: Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+
 n1 = float(input('Entre com o primeiro numero: '))
 menor = n1
 maior = n1

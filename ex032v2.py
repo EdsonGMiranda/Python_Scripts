@@ -1,3 +1,6 @@
+# Exercício Python 32: Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
+# Feito com alguma manipulação de datas.
+
 from datetime import date
 
 ano = int(input('Entre com um ano para saber se ele é bissexto ou não: '))
