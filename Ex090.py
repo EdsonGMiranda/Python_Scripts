@@ -19,6 +19,3 @@ aluno['Situacao'] = situacao
 for k, v in aluno.items():
     print(f'O {k} do aluno é {v}')
 
-
-
-print(aluno)
